@@ -11,3 +11,4 @@ C:\ElevenFiftyProjects\CSharpFundamentals\01_weekOneChallenges\obj\Debug\01_week
 C:\ElevenFiftyProjects\CSharpFundamentals\01_weekOneChallenges\obj\Debug\01_weekOneChallenges.csproj.CopyComplete
 C:\ElevenFiftyProjects\CSharpFundamentals\01_weekOneChallenges\obj\Debug\01_weekOneChallenges.dll
 C:\ElevenFiftyProjects\CSharpFundamentals\01_weekOneChallenges\obj\Debug\01_weekOneChallenges.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\01_weekOneChallenges\obj\Debug\01_weekOneChallenges.csprojAssemblyReference.cache
